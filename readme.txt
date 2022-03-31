@@ -24,15 +24,6 @@ It’s an Elementor extension, so you must install Elementor Free version (also 
 
 The element is not hidden, but it's removed from the DOM.
 
-[View full features, demo and more](https://www.dynamic.ooo/widget/dynamic-visibility-for-elementor/)
-
-What will you find in the paid version (Dynamic Content for Elementor)?
-
-- Custom condition, write your condition in PHP code without any limit
-- a lot of useful and unique widgets and extensions for Elementor
-
-[Discover full plugin](https://www.dynamic.ooo)
-
 = How it works =
 
 Open a page in Elementor mode. Select your element, go to the Visibility tab.
