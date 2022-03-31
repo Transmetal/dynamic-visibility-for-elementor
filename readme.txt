@@ -1,5 +1,5 @@
 === Dynamic Visibility for Elementor ===
-Contributors: dynamicooo
+
 Tags: elementor, visibility, hidden, dynamic, hide, widget
 Requires at least: 5.2
 Tested up to: 5.7.2
