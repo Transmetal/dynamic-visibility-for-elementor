@@ -37,17 +37,6 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. There is nothing to configure. It's necessary to have installed and activated Elementor Free version
 
-== Frequently Asked Questions ==
-
-= Is Dynamic Visibility for Elementor free? =
-Yes! Dynamic Visibility for Elementor's core features are and always will be free.
-
-= Not working, found a bug or suggestion? =
-Please write to our support or open a ticket; we are continuously working to make a better plugin.
-
-= Do you love it and use it on every site? =
-Please leave us a good review rating. We appreciate your support.
-
 == Screenshots ==
 
 1. Dynamic Visibility for Elementor is easy to use. Get better results with Dynamic Content for Elementor
